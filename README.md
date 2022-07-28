@@ -56,31 +56,13 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
-## Python version and libraries used:
-Python = 3.7.x
 
-Libraries:
-
-Numpy
-
-Pandas
-
-Matplotlib
-
-scikitlearn
-
-seaborn
-
-dash(plotly)
-
-facebook prophet
 
 ## Note: 
-Folder named 'data' is purposefully kept empty (Because of the size restriction on github). To run all the notebooks successfully clone the following repository into the specified path after cloning this repository 
+Data for the current assignment is taken from the given Git repository 
 
 repository: https://github.com/CSSEGISandData/COVID-19.git
 
-path: data >> raw
 
 # Sneak peak into the notebook
 
